@@ -1,5 +1,7 @@
 # deep-learning-notebooks
-This is where I post my deep learning notebook practices
+This is where I post my deep learning notebook practices.
+
+Please note that table of content links in the notebooks are only clickable if you download the ipynb file and convert it to html.
 
 
 The dataset for multiclass-image-segmentation is available <a href="https://github.com/zalandoresearch/fashion-mnist">here</a>:
