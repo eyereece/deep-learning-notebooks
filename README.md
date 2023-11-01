@@ -1,7 +1,10 @@
 # deep-learning-notebooks
 This is where I post my deep learning notebook practices.
 
-Please note that table of content links in the notebooks are only clickable if you download the ipynb file and convert it to html.
+Please note that table of content links in the notebooks are only clickable if you download the ipynb file and convert it to html, or open it in google colab.
+
+My latest notebooks:
+<a href="https://github.com/eyereece/deep-learning-notebooks/tree/main/fashion-recommender-v1">Fashion Recommender System</a>
 
 
 The dataset for multiclass-image-segmentation is available <a href="https://github.com/zalandoresearch/fashion-mnist">here</a>:
